@@ -5,7 +5,7 @@ This repository documents a **practical, analyst-driven approach to phishing ema
 The focus of this project is **analysis and investigation**, not incident governance or response planning.  
 Incident Response Plans for phishing are maintained separately in a dedicated IR repository.
 
----
+
 
 ## Purpose
 
@@ -15,7 +15,7 @@ This playbook is intended to:
 - Demonstrate evidence-driven decision making
 - Serve as a reference for analysts during investigations
 
----
+
 
 ## Scope
 
@@ -31,7 +31,7 @@ It does **not** cover:
 - Containment or recovery procedures
 - Organizational policy enforcement
 
----
+
 
 ## Repository Structure
 
