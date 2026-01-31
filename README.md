@@ -42,7 +42,6 @@ It does **not** cover:
 - `attachment-analysis.md` – Static and dynamic attachment analysis
 - `documentation-template.md` – Investigation documentation template
 
----
 
 ## Disclaimer
 
